@@ -14,7 +14,7 @@ IET10RCx (RC1/2/3/4/5 zone) is a stick-shaped device, which makes easier to inst
 - Minimum order quantity for custom casing or fixation: 200000 products
 
 # Device manual
- - [IET10RCx manual](Document/Manual/IET10RCx_Specification_V1.5_240214.pdf)
+ - [IET10RCx manual](Document/Manual/IET10RCx_Specification_V1.5_230215.pdf)
 
 # Android APP
  - [IET10 APP](APP/app-t10-DeepSleep.apk)
